@@ -1,0 +1,10 @@
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\obj\Debug\Listas Circulares Atencion de Procesos.csprojResolveAssemblyReference.cache
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\obj\Debug\Listas_Circulares_Atencion_de_Procesos.Form1.resources
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\obj\Debug\Listas_Circulares_Atencion_de_Procesos.Properties.Resources.resources
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\obj\Debug\Listas Circulares Atencion de Procesos.csproj.GenerateResource.Cache
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\obj\Debug\Listas Circulares Atencion de Procesos.csproj.CoreCompileInputs.cache
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\bin\Debug\Listas Circulares Atencion de Procesos.exe.config
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\bin\Debug\Listas Circulares Atencion de Procesos.exe
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\bin\Debug\Listas Circulares Atencion de Procesos.pdb
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\obj\Debug\Listas Circulares Atencion de Procesos.exe
+c:\users\20132792\source\repos\Listas Circulares Atencion de Procesos\Listas Circulares Atencion de Procesos\obj\Debug\Listas Circulares Atencion de Procesos.pdb
